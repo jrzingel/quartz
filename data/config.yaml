@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: James
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -23,7 +23,5 @@ description:
 page_title:
   "🪴 Quartz 3.3"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: My site
+    link: https://zingel.nz
